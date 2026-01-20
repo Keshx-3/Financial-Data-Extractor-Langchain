@@ -75,7 +75,7 @@ The extracted values are displayed in a clean table format for easy comparison.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/financial-data-extractor-langchain.git
+git clone https://github.com/Keshx-3/Financial-Data-Extractor-Langchain.git
 cd financial-data-extractor-langchain
 ```
 
@@ -100,3 +100,4 @@ GROQ_API_KEY=your_api_key_here
 ```bash
 streamlit run main.py
 ```
+
