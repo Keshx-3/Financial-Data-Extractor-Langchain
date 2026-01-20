@@ -1,0 +1,25 @@
+# 📊 Financial Data Extractor (LangChain + Streamlit)
+
+A simple LLM-powered web app that extracts **Revenue and EPS (Actual vs Expected)**
+from financial news paragraphs using **LangChain + Groq LLM** and displays them in a table using **Streamlit**.
+
+This project is built as part of learning **LangChain Essentials** and understanding
+how to structure end-to-end LLM applications.
+
+---
+
+## 🚀 Features
+
+- 📝 Input financial news paragraph
+- 🤖 Uses LLM via LangChain to extract:
+  - Revenue Actual
+  - Revenue Expected
+  - EPS Actual
+  - EPS Expected
+- 📊 Displays structured data in table format
+- 🧩 Clean separation of UI and LLM logic
+
+---
+
+## 🧠 Architecture Flow
+
