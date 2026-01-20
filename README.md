@@ -22,4 +22,6 @@ how to structure end-to-end LLM applications.
 ---
 
 ## 🧠 Architecture Flow
+<img width="1422" height="600" alt="diagram-export-1-20-2026-6_51_28-PM" src="https://github.com/user-attachments/assets/92f91606-f109-4170-a379-fdbbee620b38" />
+
 
