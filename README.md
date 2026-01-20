@@ -1,7 +1,6 @@
 # 📊 Financial Data Extractor (LangChain + Streamlit)
 > A mini project built while learning LangChain essentials to extract structured financial data from news articles using LLMs.
 
----
 
 ## 🔗 Live Demo
 
@@ -108,6 +107,7 @@ GROQ_API_KEY=your_api_key_here
 ```bash
 streamlit run main.py
 ```
+
 
 
 
