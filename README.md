@@ -5,7 +5,7 @@
 
 ## 🔗 Live Demo
 
-Try it live on Streamlit: [Financial Data Extractor](https://<your-streamlit-app-link>)
+Try it live on Streamlit: [Financial Data Extractor](https://financial-data-extractor-langchain-ttk7mwvlmqlbukjbyi6y3s.streamlit.app/)
 
 ---
 
@@ -108,5 +108,6 @@ GROQ_API_KEY=your_api_key_here
 ```bash
 streamlit run main.py
 ```
+
 
 
